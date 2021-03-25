@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Start button plays a sound whenever clicked.
+- [✓] Start button plays a sound whenever clicked.
 
 ## Video Walkthrough
 
